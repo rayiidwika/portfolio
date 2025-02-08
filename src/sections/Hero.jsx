@@ -7,7 +7,7 @@ export default function Hero() {
                 <h1 className="text-7xl font-bold">Rayi Dwika</h1>
             </div>
             <div>
-                <img src="/public/mulyono.PNG" className="border-b-2" alt="test" />    
+                <img src="/mulyono.PNG" className="border-b-2" alt="test" />    
             </div>                                  
         </div>
     </section>
