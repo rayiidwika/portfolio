@@ -8,7 +8,7 @@ export default function Hero() {
                 <p className="text-2xl font-semibold text-orange-500">Welcome to my world</p>
             </div>
             <div>
-                <img src="/public/mulyono.PNG" className="border-b-3 border-orange-500" alt="test" />    
+                <img src="/mulyono.png" className="border-b-3 border-orange-500" alt="test" />    
             </div>                                  
         </div>
     </section>
