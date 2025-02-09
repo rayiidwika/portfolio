@@ -8,7 +8,7 @@ export default function About() {
             <h1 className="text-center text-4xl font-bold mb-8" >About Me</h1>
             
            <p className="text-justify">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, tempore recusandae? Eveniet, incidunt? Itaque natus modi quod alias officia, dolore accusamus accusantium similique fugiat nobis vel id inventore sunt aliquid! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus, ratione eligendi quis, aliquid alias atque perferendis libero ut cupiditate iusto animi! Expedita ea possimus doloribus, eius, fuga quae voluptate corporis libero dolore tempora quos voluptatibus veritatis, odit soluta incidunt sed asperiores aliquam voluptates quibusdam praesentium animi quam officia. Reprehenderit modi qui eaque autem, sit aliquam officia dolor eum laboriosam! Aut expedita necessitatibus repellat quae quisquam, tempore vel aspernatur recusandae doloribus, modi in dolor vero quas et, iure laudantium. Unde alias, delectus quo, molestiae doloribus beatae voluptates, maiores inventore impedit quae neque! Possimus nihil modi nam maxime alias sequi nulla eos.</p>
+           Nama saya Rayi Dwika Nugraha biasa di panggil Rayii. Saya seorang Mahasiswa yang sedang menempuh perkuliahan di Politeknik LP3I Kampus Tasikmalaya dan mengambil jurusan Menejemen Informatika. Saat ini saya sedang belajar hal-hal seputar ilmu komputer khususnya di bidang Web Programming. Dan cita-cita saya bekerja sebagai Frontend Developer.</p>
             
             <div className='mt-12 flex gap-8 flex-col md:flex-row'>
             <div className='md:w-1/2'>

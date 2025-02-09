@@ -1,10 +1,10 @@
 export default function Hero() {
     return (
     <section>
-        <div className="min-h-screen max-w-screen-lg m-auto flex items-center justify-center gap-8">
+        <div className="min-h-screen max-w-screen-lg m-auto flex items-center justify-center gap-8 flex-col md:flex-row">
             <div>
                 <p className="text-lg">hi, my name is...</p>
-                <h1 className="text-7xl font-bold">Rayi Dwika Nugraha</h1>
+                <h1 className="text-7xl font-bold text-slate-100">Rayi Dwika Nugraha</h1>
                 <p className="text-2xl font-semibold text-orange-500">Welcome to my world</p>
             </div>
             <div>
